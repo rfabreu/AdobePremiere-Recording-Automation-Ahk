@@ -1,6 +1,9 @@
 #NoEnv ; turn off auto-loading of variable definitions from the environment
 ; #Warn ; enable warnings
 
+; ensure that only one instance of the script is running at any given time, which can be useful to avoid unintended behavior
+#SingleInstance, Force
+
 ; set the send mode to input. So keys are sent directly to the active window, rather than being interpreted by the operating system
 SendMode Input
 ; set the working directory of the script to the directory where the script is located
