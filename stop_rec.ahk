@@ -1,3 +1,8 @@
+; MOVE ALL COMMENTS UP IN HERE IN FUNCTION ORDER
+; THEN COMMIT
+; REFACTOR CODE
+; COMMIT PRODUCTION RELEASE 
+ 
 ; ensure that only one instance of the script is running at any given time, which can be useful to avoid unintended behavior
 #SingleInstance, Force
 ; set the send mode to input. So keys are sent directly to the active window, rather than being interpreted by the operating system

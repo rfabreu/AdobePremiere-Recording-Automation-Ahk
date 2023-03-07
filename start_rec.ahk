@@ -1,3 +1,8 @@
+; MOVE ALL COMMENTS UP IN HERE IN FUNCTION ORDER
+; THEN COMMIT
+; REFACTOR CODE
+; COMMIT PRODUCTION RELEASE
+
 #NoEnv ; turn off auto-loading of variable definitions from the environment
 ; #Warn ; enable warnings
 
